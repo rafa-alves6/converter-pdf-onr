@@ -18,7 +18,7 @@ O objetivo é simplificar e padronizar o processo de digitalização, criando a 
 
 A versão mais recente do programa pode ser baixada diretamente da nossa página de **Releases**.
 
-**[➡️ Baixar a Versão Mais Recente (v1.7)](https://github.com/rafa-alves6/converter-pdf-onr/releases/latest)**
+**[➡️ Baixar a Versão Mais Recente (v1.8)](https://github.com/rafa-alves6/converter-pdf-onr/releases/latest)**
 
 O download é um único arquivo `setup.exe` que instalará o programa e todas as dependências necessárias (ImageMagick e Ghostscript). Durante a instalação, o assistente irá guiar você na instalação das dependências.
 
